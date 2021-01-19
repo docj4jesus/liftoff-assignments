@@ -23,7 +23,10 @@ App Features and Functionalities:
 Programming Language: JavaScript using Angular and MySQL for a Database
 
 ### What I'll Have to Learn
-Include what you will need to learn here
+-Refresher on JavaScript and Angular
+-How to connect MySQL to Angular
+-Refresher and practice to pull content from branches while working as a team
+-Advanced coding with JavaScript to create a forum and embed videos within the modules
 
 ### Project Tracker
 Link to Trello Board:
